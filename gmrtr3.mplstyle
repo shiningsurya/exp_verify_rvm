@@ -1,0 +1,59 @@
+# Set black background default line colors to white.
+
+lines.color: black
+patch.edgecolor: black
+
+text.color: black
+
+axes.facecolor: white 
+
+axes.edgecolor: black
+axes.labelcolor: black
+#axes.aspect: equal
+
+axes.prop_cycle: cycler('color', ['8dd3c7', 'feffb3', 'bfbbd9', 'fa8174', '81b1d2', 'fdb462', 'b3de69', 'bc82bd', 'ccebc4', 'ffed6f'])
+
+#xtick.color: white
+#ytick.color: white
+
+ytick.color: black 
+xtick.color: black
+
+## axis
+# Set x axis
+xtick.direction : in
+xtick.major.size : 6
+xtick.major.width : 0.8
+xtick.minor.size : 3.5
+xtick.minor.width : 0.5
+xtick.minor.visible : True
+xtick.top : True
+
+# Set y axis
+ytick.direction : in
+ytick.major.size : 6
+ytick.major.width : 0.8
+ytick.minor.size : 3.5
+ytick.minor.width : 0.5
+ytick.minor.visible : True
+ytick.right : True
+
+grid.color: gray
+
+figure.facecolor: white
+figure.edgecolor: white 
+
+savefig.facecolor: white 
+savefig.edgecolor: black
+savefig.dpi: 300
+savefig.bbox: tight
+
+# lk
+legend.frameon: false
+
+# Use serif fonts
+# font.serif : Times
+font.family : monospace
+mathtext.rm : monospace
+
+### Boxplots

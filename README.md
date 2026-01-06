@@ -1,2 +1,3 @@
-# exp_verify_rvm
-Experimental verification of RVM
+# Experimentally verifying Rotating Vector Model
+
+Collection of scripts and intermediates
