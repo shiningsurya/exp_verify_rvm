@@ -14,9 +14,16 @@ The repository is released with a paper that will _hopefully_ be submitted on ar
 
 The following two videos show the data collected:
 
-![Aligned rotator](aligned_rotator.mp4)
+#### Aligned rotator
+<video controls>
+<source src="aligned_rotator.mp4" type="video/mp4">
+</video>
 
-![Inclined rotator](inclined_rotator.mp4)
+#### Inclined rotator
+<video controls>
+<source src="inclined_rotator.mp4" type="video/mp4">
+</video>
+
 
 
 ### Quick outcomes
