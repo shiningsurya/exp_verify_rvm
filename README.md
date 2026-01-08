@@ -15,12 +15,12 @@ The repository is released with a paper that will _hopefully_ be submitted on ar
 The following two videos show the data collected:
 
 #### Aligned rotator
-<video controls>
+<video>
 <source src="aligned_rotator.mp4" type="video/mp4">
 </video>
 
 #### Inclined rotator
-<video controls>
+<video>
 <source src="inclined_rotator.mp4" type="video/mp4">
 </video>
 
